@@ -1,5 +1,3 @@
-![](./img/statusbar.png)
-
 ### Что это?
 
 Универсальная раскладка — пакет из английской и русской раскладок для Мака, спроектированных для удобного совместного использования.
@@ -10,11 +8,13 @@
 
 ### Как установить?
 
-1. [Скачиваете релиз](https://github.com/tonsky/Universal-Layout/releases/download/1.0/UniversalLayout_1.0.zip).
+1. Скачайте [дистрибутив (последняя версия 1.0)](https://github.com/tonsky/Universal-Layout/releases/download/1.0/UniversalLayout_1.0.zip).
 2. Кидаете `Universal.bundle` в `~/Library/Keyboard Layouts`.
 3. Если у вас тёмная тема или тёмный статус бар, вместо `Universal.bundle` возьмите `Universal Dark.bundle` (отличается только иконками).
 4. `System Preferences...` → `Keyboard` → `Input sources` → добавляете «English - Universal» и «Russian - Universal».
 5. Возможно, понадобится сделать Logout-Login.
+
+![](./img/statusbar.png)
 
 ### Что не так со стандартными?
 
@@ -63,6 +63,8 @@
 ### Титры
 
 Copyright © 2018 Никита Прокопов
+
+Лицензия [MIT](https://github.com/tonsky/Universal-Layout/blob/master/LICENSE)
 
 Твиттер [@nikitonsky](https://twitter.com/nikitonsky)
 
