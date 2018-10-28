@@ -1,20 +1,8 @@
-### Что это?
-
 Универсальная раскладка — пакет из английской и русской раскладок для Мака, спроектированных для удобного совместного использования.
 
 ![](./Layout.png)
 
 Распечатайте и держите под рукой эту шпаргалку на первое время, пока не привыкните, где что.
-
-### Как установить?
-
-1. Скачайте [дистрибутив (последняя версия 1.0)](https://github.com/tonsky/Universal-Layout/releases/download/1.0/UniversalLayout_1.0.zip).
-2. Кидаете `Universal.bundle` в `~/Library/Keyboard Layouts`.
-3. Если у вас тёмная тема или тёмный статус бар, вместо `Universal.bundle` возьмите `Universal Dark.bundle` (отличается только иконками).
-4. `System Preferences...` → `Keyboard` → `Input sources` → добавляете «English - Universal» и «Russian - Universal».
-5. Возможно, понадобится сделать Logout-Login.
-
-![](./img/statusbar.png)
 
 ### Что не так со стандартными?
 
@@ -39,6 +27,16 @@
 - Запятая, восклицательный знак, вопрос, двойная кавычка и круглые и фигурные скобки на дефолтном слое (без шифта).
 - Фигурные скобки на дефолтном слое в Английской раскладке (программисты оценят).
 - Встроена [Типографская раскладка Бирмана](https://ilyabirman.ru/projects/typography-layout/) (с добавлением Ё, Ъ и №).
+
+### Как установить?
+
+1. Скачайте [дистрибутив (последняя версия 1.0)](https://github.com/tonsky/Universal-Layout/releases/download/1.0/UniversalLayout_1.0.zip).
+2. Кидаете `Universal.bundle` в `~/Library/Keyboard Layouts`.
+3. Если у вас тёмная тема или тёмный статус бар, вместо `Universal.bundle` возьмите `Universal Dark.bundle` (отличается только иконками).
+4. `System Preferences...` → `Keyboard` → `Input sources` → добавляете «English - Universal» и «Russian - Universal».
+5. Возможно, понадобится сделать Logout-Login.
+
+![](./img/statusbar.png)
 
 ### Зачем вынесли цифры на шифт?
 
