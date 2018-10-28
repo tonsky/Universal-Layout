@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.7.195 on 2018-10-28 at 18:14 (GMT+3)-->
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-10-28 at 20:02 (GMT+3)-->
 <!--Created by Ukelele version 1.8 on 2008-10-24 at 13:25 (YEKST)-->
-<keyboard group="126" id="-21735" name="Russian - Universal" maxout="3">
+<keyboard group="126" id="-14928" name="Russian - Universal" maxout="3">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
 		<layout first="18" last="18" mapSet="994" modifiers="f4"/>
@@ -71,8 +71,8 @@
 			<key code="18" output="!"/>
 			<key code="19" output="@"/>
 			<key code="20" output="#"/>
-			<key code="21" output="$"/>
-			<key code="22" output="^"/>
+			<key code="21" output=";"/>
+			<key code="22" output=":"/>
 			<key code="23" output="%"/>
 			<key code="24" output="="/>
 			<key code="25" output="("/>
@@ -92,7 +92,7 @@
 			<key code="39" action="э"/>
 			<key code="40" action="л"/>
 			<key code="41" action="ж"/>
-			<key code="42" output="/"/>
+			<key code="42" output="&#x0022;"/>
 			<key code="43" action="б"/>
 			<key code="44" output="ю"/>
 			<key code="45" action="16"/>
@@ -204,7 +204,7 @@
 			<key code="39" action="Э"/>
 			<key code="40" action="Л"/>
 			<key code="41" action="Ж"/>
-			<key code="42" output="~"/>
+			<key code="42" output="/"/>
 			<key code="43" action="Б"/>
 			<key code="44" output="Ю"/>
 			<key code="45" action="9"/>
@@ -1381,7 +1381,7 @@
 			<when state="grave" output="Ѐ"/>
 		</action>
 		<action id="Ё 1">
-			<when state="none" output="&#x0027;"/>
+			<when state="none" output="~"/>
 			<when state="grave" output="Ѐ"/>
 		</action>
 		<action id="І">
@@ -1394,7 +1394,7 @@
 			<when state="diaeresis" output="Ӓ"/>
 		</action>
 		<action id="Б">
-			<when state="none" output=";"/>
+			<when state="none" output="&#x003C;"/>
 		</action>
 		<action id="В">
 			<when state="none" output="В"/>
@@ -1453,7 +1453,7 @@
 			<when state="none" output="С"/>
 		</action>
 		<action id="Х">
-			<when state="none" output="Х"/>
+			<when state="none" output="Б"/>
 		</action>
 		<action id="Ц">
 			<when state="none" output="Ц"/>
@@ -1463,7 +1463,7 @@
 			<when state="diaeresis" output="Ӵ"/>
 		</action>
 		<action id="Ъ">
-			<when state="none" output="Б"/>
+			<when state="none" output="Х"/>
 		</action>
 		<action id="Ы">
 			<when state="none" output="Ы"/>
@@ -1477,7 +1477,7 @@
 			<when state="diaeresis" output="Ӭ"/>
 		</action>
 		<action id="Ю">
-			<when state="none" output=":"/>
+			<when state="none" output="&#x003E;"/>
 		</action>
 		<action id="Я">
 			<when state="none" output="Я"/>
@@ -1547,7 +1547,7 @@
 			<when state="none" output="с"/>
 		</action>
 		<action id="х">
-			<when state="none" output="х"/>
+			<when state="none" output="б"/>
 		</action>
 		<action id="ц">
 			<when state="none" output="ц"/>
@@ -1557,7 +1557,7 @@
 			<when state="diaeresis" output="ӵ"/>
 		</action>
 		<action id="ъ">
-			<when state="none" output="б"/>
+			<when state="none" output="х"/>
 		</action>
 		<action id="ы">
 			<when state="none" output="ы"/>
@@ -1583,7 +1583,7 @@
 			<when state="grave" output="ѐ"/>
 		</action>
 		<action id="ё 1">
-			<when state="none" output="&#x0022;"/>
+			<when state="none" output="&#x0027;"/>
 			<when state="grave" output="ѐ"/>
 		</action>
 		<action id="і">
