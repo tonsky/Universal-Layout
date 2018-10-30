@@ -8,9 +8,5 @@ iconutil --convert icns --output Universal.bundle/Contents/Resources/Russian\ -\
 
 touch Universal.bundle
 
-rm -f UniversalLayout_1.1.zip
-zip -rq9 UniversalLayout_1.1.zip Universal.bundle README.md CHANGELOG.md LICENSE Layout.png
-
 rm -rf ~/Library/Keyboard\ Layouts/Universal.bundle
 cp -r Universal.bundle ~/Library/Keyboard\ Layouts/
-
