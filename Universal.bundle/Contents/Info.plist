@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.universal</string>
+	<string>me.tonsky.keyboardlayout.universal</string>
 	<key>CFBundleName</key>
 	<string>Universal</string>
 	<key>CFBundleVersion</key>
@@ -11,14 +11,28 @@
 	<key>KLInfo_English - Universal</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.universal.english-universal</string>
+		<string>me.tonsky.keyboardlayout.universal.english-universal</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_English - Universal Dark</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.tonsky.keyboardlayout.universal.english-universaldark</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
 	<key>KLInfo_Russian - Universal</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.universal.russian-universal</string>
+		<string>me.tonsky.keyboardlayout.universal.russian-universal</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru</string>
+	</dict>
+	<key>KLInfo_Russian - Universal Dark</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.tonsky.keyboardlayout.universal.russian-universaldark</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru</string>
 	</dict>
