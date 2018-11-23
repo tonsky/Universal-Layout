@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.7.195 on 2018-10-30 at 14:17 (GMT+3)-->
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-11-24 at 00:35 (GMT+3)-->
 <!--Created by Ukelele version 1.8 on 2008-10-24 at 13:25 (YEKST)-->
 <keyboard group="126" id="-14928" name="Russian - Universal" maxout="3">
 	<layouts>
@@ -283,7 +283,7 @@
 			<key code="10" output="`"/>
 			<key code="11" output="ß"/>
 			<key code="12" output=""/>
-			<key code="13" output=""/>
+			<key code="13" output="✓"/>
 			<key code="14" output="€"/>
 			<key code="15" output="®"/>
 			<key code="16" action="ѣ"/>
@@ -878,6 +878,7 @@
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
 			<key code="64" output="&#x0010;"/>
+			<key code="65" output=""/>
 			<key code="66" output="&#x001D;"/>
 			<key code="67" output="*"/>
 			<key code="69" output="+"/>
