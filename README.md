@@ -30,7 +30,7 @@
 
 ### Как установить?
 
-1. Скачайте [дистрибутив (последняя версия 1.1)](https://github.com/tonsky/Universal-Layout/releases/download/1.1/UniversalLayout_1.1.zip).
+1. Скачайте [дистрибутив (последняя версия 1.2)](https://github.com/tonsky/Universal-Layout/releases/download/1.2/UniversalLayout_1.2.zip).
 2. Кидаете `Universal.bundle` в `~/Library/Keyboard Layouts`.
 3. `System Preferences...` → `Keyboard` → `Input sources` → добавляете «English - Universal» и «Russian - Universal».
 4. Если у вас тёмная тема или тёмный статус бар, вместо них выберите `Dark` версии (отличаются только иконками).
