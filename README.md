@@ -33,8 +33,9 @@
 1. Скачайте [дистрибутив (последняя версия 1.3)](https://github.com/tonsky/Universal-Layout/releases/download/1.3/UniversalLayout_1.3.zip).
 2. Кидаете `Universal.bundle` в `~/Library/Keyboard Layouts`.
 3. `System Preferences...` → `Keyboard` → `Input sources` → добавляете «English - Universal» и «Russian - Universal».
-4. Если у вас тёмная тема или тёмный статус бар, вместо них выберите `Dark` версии (отличаются только иконками).
-5. Возможно, понадобится сделать Logout-Login.
+4. Чтобы удалить оригинальную английскую раскладку, добавляете японскую, затем удаляете английскую, затем удаляете японскую.
+5. Если у вас тёмная тема или тёмный статус бар, вместо них выберите `Dark` версии (отличаются только иконками).
+6. Возможно, понадобится сделать Logout-Login.
 
 ![](./img/statusbar.png)
 
