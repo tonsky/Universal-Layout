@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.7.195 on 2018-11-24 at 00:37 (GMT+3)-->
+<!--Last edited by Ukelele version 3.3.0.249 on 2019-07-09 at 17:45 (GMT+3)-->
 <!--Created by Ukelele version 1.8 on 2008-10-24 at 13:25 (YEKST)-->
 <keyboard group="126" id="-12087" name="English - Universal" maxout="3">
 	<layouts>
@@ -274,7 +274,7 @@
 		</keyMap>
 		<keyMap index="2">
 			<key code="0" output="≈"/>
-			<key code="1" output="§"/>
+			<key code="1" output=""/>
 			<key code="2" output="°"/>
 			<key code="3" output="£"/>
 			<key code="4" output="₽"/>
@@ -285,7 +285,7 @@
 			<key code="9" output="↓"/>
 			<key code="10" output="`"/>
 			<key code="11" output="ß"/>
-			<key code="12" output=""/>
+			<key code="12" output="§"/>
 			<key code="13" output="✓"/>
 			<key code="14" output="€"/>
 			<key code="15" output="®"/>
