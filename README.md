@@ -26,11 +26,12 @@
 - Запятая, точка, восклицательный знак, вопрос, точка с запятой, двоеточие, двойная и одинарная кавычки на дефолтном слое (без шифта).
 - Насколько возможно, сохранена совместимость со стандартной English (88%) и Russian — PC (86%).
 - В русской раскладке подвигались Б, Х и Ю — не пугайтесь.
-- Встроена [Типографская раскладка Бирмана](https://ilyabirman.ru/projects/typography-layout/) (с добавлением Ё, Ъ и №).
+- Украинские i, ґ, є, ї.
+- Встроена [Типографская раскладка Бирмана](https://ilyabirman.ru/projects/typography-layout/) (с добавлением Ё, Ъ и №)
 
 ### Как установить?
 
-1. Скачайте [дистрибутив (последняя версия 1.4)](https://github.com/tonsky/Universal-Layout/releases/download/1.$/UniversalLayout_1.$.zip).
+1. Скачайте [дистрибутив (последняя версия 1.5)](https://github.com/tonsky/Universal-Layout/releases/download/1.5/UniversalLayout_1.5.zip).
 2. Кидаете `Universal.bundle` в `/Library/Keyboard Layouts`.
 3. `System Preferences...` → `Keyboard` → `Input sources` → добавляете «English - Universal» и «Russian - Universal».
 4. Чтобы удалить оригинальную английскую раскладку, добавляете японскую, затем удаляете английскую, затем удаляете японскую.
