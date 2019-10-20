@@ -10,21 +10,21 @@
 	<string>1.1</string>
 	<key>KLInfo_English - Universal</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>me.tonsky.keyboardlayout.universal.english-universal</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
-		<key>TISIconIsTemplate</key>
-		<true/>
 	</dict>
 	<key>KLInfo_Russian - Universal</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
 		<key>TISInputSourceID</key>
 		<string>me.tonsky.keyboardlayout.universal.russian-universal</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru</string>
-		<key>TISCapsLockIsSwitch</key>
-		<true/>
 	</dict>
 </dict>
 </plist>
