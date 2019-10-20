@@ -31,7 +31,7 @@
 
 ### Как установить?
 
-1. Скачайте [дистрибутив (последняя версия 1.5)](https://github.com/tonsky/Universal-Layout/releases/download/1.5/UniversalLayout_1.5.zip).
+1. Скачайте [дистрибутив (последняя версия 1.6)](https://github.com/tonsky/Universal-Layout/releases/download/1.6/UniversalLayout_1.6.zip).
 2. Кидаете `Universal.bundle` в `/Library/Keyboard Layouts`.
 3. `System Preferences...` → `Keyboard` → `Input sources` → добавляете «English - Universal» и «Russian - Universal».
 4. Чтобы удалить оригинальную английскую раскладку, добавляете японскую, затем удаляете английскую, затем удаляете японскую.
