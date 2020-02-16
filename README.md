@@ -74,6 +74,7 @@
 ### Альтернативы
 
 [Версия Никиты Широкова](https://github.com/braindefender/universal-layout) (с поддержкой Windows).
+
 [Версия Михаила Бринчука](https://github.com/Thecentury/Windows-Universal-Layout) для Windows.
 
 ### Титры
