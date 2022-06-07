@@ -7,11 +7,11 @@
 	<key>CFBundleName</key>
 	<string>Universal</string>
 	<key>CFBundleVersion</key>
-	<string>1.6</string>
+	<string>1.7</string>
 	<key>KLInfo_English - Universal</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
+		<true/>
 		<key>TISInputSourceID</key>
 		<string>me.tonsky.keyboardlayout.universal.english-universal</string>
 		<key>TISIntendedLanguage</key>
@@ -27,8 +27,15 @@
 		<string>me.tonsky.keyboardlayout.universal.russian-universal</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru</string>
-		<key>TISCapsLockIsSwitch</key>
-		<true/> 
+	</dict>
+	<key>KLInfo_Ukrainian - Universal</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>me.tonsky.keyboardlayout.universal.ukrainian-universal</string>
+		<key>TISIntendedLanguage</key>
+		<string>uk</string>
 	</dict>
 </dict>
 </plist>
