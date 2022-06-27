@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 351 on 2022-06-07 at 15:54 (CEST)-->
+<!--Last edited by Ukelele version 351 on 2022-06-27 at 18:16 (CEST)-->
 <!--Created by Ukelele version 1.8 on 2008-10-24 at 13:25 (YEKST)-->
 <keyboard group="126" id="-19336" name="Ukrainian - Universal" maxout="3">
     <layouts>
@@ -293,7 +293,7 @@
             <key code="14" output="€"/>
             <key code="15" output="®"/>
             <key code="16" action="ѣ"/>
-            <key code="17" output="ё"/>
+            <key code="17" output=""/>
             <key code="18" output="¹"/>
             <key code="19" output="²"/>
             <key code="20" output="№"/>
@@ -322,7 +322,7 @@
             <key code="43" output="«"/>
             <key code="44" output="…"/>
             <key code="45" output=""/>
-            <key code="46" output="ъ"/>
+            <key code="46" output=""/>
             <key code="47" output="»"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
@@ -405,7 +405,7 @@
             <key code="14" output=""/>
             <key code="15" action="ring"/>
             <key code="16" action="Ѣ"/>
-            <key code="17" output="Ё"/>
+            <key code="17" output=""/>
             <key code="18" output="¡"/>
             <key code="19" output="¹⁄₂"/>
             <key code="20" output="¹⁄₃"/>
@@ -434,7 +434,7 @@
             <key code="43" output="„"/>
             <key code="44" action="⁄"/>
             <key code="45" action=" 5"/>
-            <key code="46" output="Ъ"/>
+            <key code="46" output=""/>
             <key code="47" output="“"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
@@ -991,6 +991,7 @@
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
             <key code="64" output="&#x0010;"/>
+            <key code="65" output=""/>
             <key code="66" output="&#x001D;"/>
             <key code="67" output="*"/>
             <key code="69" output="+"/>
