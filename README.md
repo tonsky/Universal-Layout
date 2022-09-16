@@ -83,6 +83,8 @@
 
 [Версия Михаила Бринчука](https://github.com/Thecentury/Windows-Universal-Layout) для Windows.
 
+[Версия Константина Молчанова](https://github.com/moigagoo/universal-layout-linux) для Linux.
+
 ### Титры
 
 Copyright © 2018 Никита Прокопов
