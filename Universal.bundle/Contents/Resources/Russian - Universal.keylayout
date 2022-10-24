@@ -277,7 +277,7 @@
 		</keyMap>
 		<keyMap index="2">
 			<key code="0" output="≈"/>
-			<key code="1" output="И"/>
+			<key code="1" output="и"/>
 			<key code="2" output="°"/>
 			<key code="3" output="£"/>
 			<key code="4" output="₽"/>
