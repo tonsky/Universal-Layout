@@ -12,17 +12,19 @@
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
+		<key>TISIconIsTemplate</key>
+		<true/>
 		<key>TISInputSourceID</key>
 		<string>me.tonsky.keyboardlayout.universal.english-universal</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
-		<key>TISIconIsTemplate</key>
-		<true/> 
 	</dict>
 	<key>KLInfo_Russian - Universal</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
+		<key>TISIconIsTemplate</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>me.tonsky.keyboardlayout.universal.russian-universal</string>
 		<key>TISIntendedLanguage</key>
@@ -32,6 +34,8 @@
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
+		<key>TISIconIsTemplate</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>me.tonsky.keyboardlayout.universal.ukrainian-universal</string>
 		<key>TISIntendedLanguage</key>
