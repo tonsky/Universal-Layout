@@ -83,6 +83,8 @@
 
 [Версия Михаила Бринчука](https://github.com/Thecentury/Windows-Universal-Layout) для Windows.
 
+Еще одна [Версия для Windows](https://github.com/mazharenko/universal-layout).
+
 [Версия Константина Молчанова](https://github.com/moigagoo/universal-layout-linux) для Linux.
 
 ### Титры
